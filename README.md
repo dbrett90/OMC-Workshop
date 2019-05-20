@@ -1,16 +1,16 @@
 # OMC  Workshop
-**NOTE: This Repository contains all relevant exercises for the CPAS Workshop**
+**NOTE: This Repository contains all relevant exercises for the OMC Workshop**
 
 ### Disclaimer
 The following is intended to outline our general product direction. It is intended for information purposes only, and may not be incorporated into any contract. It is not a commitment to deliver any material, code, or functionality, and should not be relied upon in making purchasing decisions. The development, release, and timing of any features or functionality described for Oracle’s products remains at the sole discretion of Oracle.
 
 # Table of Contents
-* [Exercise 1: Creating Custom Parsers & Dashboards](https://github.com/dbrett90/CPASWorkshop#exercise-1-creating-custom-parsers)
-* [Exercise 2: Visualizations & Custom Dashboards](https://github.com/dbrett90/CPASWorkshop#exercise-2-visualizations--custom-dashboards)
-* [Exercise 3: Creating Groups](https://github.com/dbrett90/CPASWorkshop#exercise-3-creating-groups)
-* [Exercise 4: Mock Security Monitoring & Analytics](https://github.com/dbrett90/CPASWorkshop#exercise-4-mock-security-monitoring--analytics)
-* [Exercise 5: Creating Alert Rules](https://github.com/dbrett90/CPASWorkshop#exercise-5-creating-alert-rules)
-* [Useful Links](https://github.com/dbrett90/CPASWorkshop#useful-links)
+* [Exercise 1: Creating Custom Parsers & Dashboards](https://github.com/dbrett90/OMC-Workshop#exercise-1-creating-custom-parsers)
+* [Exercise 2: Visualizations & Custom Dashboards](https://github.com/dbrett90/OMC-Workshop#exercise-2-visualizations--custom-dashboards)
+* [Exercise 3: Creating Groups](https://github.com/dbrett90/OMC-Workshop#exercise-3-creating-groups)
+* [Exercise 4: Mock Security Monitoring & Analytics](https://github.com/dbrett90/OMC-Workshop#exercise-4-mock-security-monitoring--analytics)
+* [Exercise 5: Creating Alert Rules](https://github.com/dbrett90/OMC-Workshop#exercise-5-creating-alert-rules)
+* [Useful Links](https://github.com/dbrett90/OMC-Workshop#useful-links)
 ## Exercise 1: Creating Custom Parsers
 ### Creating Custom Fields
 Open your Oracle Management Cloud Console and navigate to Administration > Log Admin > Fields. We will be creating a log parser for the data, but first need to specify a few custom fields contained within the Web Application Firewall log files that do not come prepackaged within OMC.
