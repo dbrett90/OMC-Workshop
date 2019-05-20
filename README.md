@@ -1,4 +1,4 @@
-# CPAS Workshop
+# OMC  Workshop
 **NOTE: This Repository contains all relevant exercises for the CPAS Workshop**
 
 ### Disclaimer
